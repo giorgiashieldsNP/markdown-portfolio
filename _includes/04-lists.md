@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Hot Dogs
+* Real Dogs Dressed Up Like Hot Dogs
+  * Ketchup
+  * Mustard
